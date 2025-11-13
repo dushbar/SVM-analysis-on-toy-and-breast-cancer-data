@@ -14,9 +14,6 @@ It contains two Jupyter notebooks:
 - [What I Built](#what-i-built)  
 - [Key Findings (Summary)](#key-findings-summary)  
 - [Notebook Details](#notebook-details)  
-- [Dependencies](#dependencies)   
-- [Suggested Next Steps](#suggested-next-steps)  
-- [Summary for Résumé](#summary-for-résumé)  
 
 ---
 
