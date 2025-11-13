@@ -8,7 +8,7 @@ It contains two Jupyter notebooks:
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Motivation](#motivation)  
 - [What I Built](#what-i-built)  
