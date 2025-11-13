@@ -22,7 +22,7 @@ It contains two Jupyter notebooks:
 
 ## Motivation
 
-SVMs are classical, robust classifiers useful for structured/tabular datasets and small–medium sized real-world problems.  
+SVMs are classical, robust classifiers useful for structured/tabular datasets and small or medium sized real-world problems.  
 This project aims to:
 
 - Visualize how SVM kernels behave  
