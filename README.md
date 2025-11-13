@@ -55,7 +55,7 @@ This project aims to:
 - Accuracy increases with `C` up to an optimal value, then plateaus or fluctuates slightly.  
 - Number of support vectors decreases as `C` increases and eventually stabilizes: 
 - Important features (from SHAP):  
-  *worst concavity, worst concave points, perimeter error, worst area, worst radius*.  
+  *texture, concavity, radius, perimeter*.  
 - High values of these features push SHAP values toward **malignant** (class 0), aligning with clinical intuition.  
 - SVM relies on a minimal set of boundary-defining samples for large `C`.  
 - SHAP correctly explains predictions relative to class `1` (benign).  
